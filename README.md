@@ -29,7 +29,7 @@ Essa ferramenta é ideal para pessoas que desejam armazenar vídeos do YouTube l
 
 - Abra um prompt de comando
 - Navegue até a pasta do projeto
-- Execute o comando: **python app.py** para que o nosso script seja executado.
+- Execute o comando: ```python app.py``` para que o nosso script seja executado.
 - Cole a URL do vídeo que deseja baixar
 - Aperte enter
 - Espere o Download ser concluído
