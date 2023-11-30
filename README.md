@@ -5,7 +5,7 @@
 ![ShielddoProjeto](https://img.shields.io/github/repo-size/adrianoleitedasilva/YoutubeDownloader?style=for-the-badge)
 ![ShielddoProjeto](https://img.shields.io/tokei/lines/github/adrianoleitedasilva/YoutubeDownloader?style=for-the-badge)
 ![ShielddoProjeto](https://img.shields.io/github/directory-file-count/adrianoleitedasilva/YoutubeDownloader?style=for-the-badge)
-![ShielddoProjeto](https://img.shields.io/github/stars/adrianoleitedasilva/YoutubeDownloader?style=for-the-badge) 
+![ShielddoProjeto](https://img.shields.io/github/stars/adrianoleitedasilva/YoutubeDownloader?style=for-the-badge)
 ![ShielddoProjeto](https://img.shields.io/github/forks/adrianoleitedasilva/YoutubeDownloader?style=for-the-badge)
 ![ShielddoProjeto](https://img.shields.io/github/issues-pr/adrianoleitedasilva/YoutubeDownloader?style=for-the-badge)
 ![ShielddoProjeto](https://img.shields.io/github/last-commit/adrianoleitedasilva/YoutubeDownloader?style=for-the-badge)
@@ -25,10 +25,19 @@ Esse script tem como principal funcionalidade fazer o download de vídeos do You
 - **Personalização do Caminho de Saída**: Os usuários têm a opção de especificar o diretório de destino para o vídeo baixado. Se não especificado, o vídeo será salvo no diretório de trabalho atual.
 Essa ferramenta é ideal para pessoas que desejam armazenar vídeos do YouTube localmente para visualização offline, sem a necessidade de depender de conexão à internet. Com um código simples e eficiente, o script de download de vídeos do YouTube é uma solução confiável e prática para quem deseja ter acesso a vídeos favoritos a qualquer momento e em qualquer lugar.
 
+
+## Requisitos
+
+- Python 3.6+
+- Pip
+- Pytube
+
+
 ## Como utilizar?
 
 - Abra um prompt de comando
 - Navegue até a pasta do projeto
+- Execute o comando: ```pip install -r requirements.txt``` para instalar as dependências do projeto.
 - Execute o comando: ```python app.py``` para que o nosso script seja executado.
 - Cole a URL do vídeo que deseja baixar
 - Aperte enter
